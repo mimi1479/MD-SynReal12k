@@ -1,0 +1,23 @@
+# Dataset (too large for Git)
+data/raw/
+data/processed/
+*.zip
+*.rar
+*.7z
+
+# Trained models
+*.h5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Python and notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
