@@ -12,9 +12,9 @@ A comparison of classical machine learning and deep learning models for detectin
 | Member | GitHub | Main task |
 |---|---|---|
 | Maryam Ahmadi | [@Marriy02](https://github.com/Marriy02) | TBD |
-| Romina | [@RominaSonboldoust](https://github.com/RominaSonboldoust) | TBD |
-| Kiarash | [@amirkiarash](https://github.com/amirkiarash) | TBD |
-| Oumayma | [@mimi1479](https://github.com/mimi1479) | TBD |
+| Romina Sonboldoust | [@RominaSonboldoust](https://github.com/RominaSonboldoust) | TBD |
+| Amir Mohammadi (Kiarash) | [@amirkiarash](https://github.com/amirkiarash) | TBD |
+| Oumaima Nakrimi | [@mimi1479](https://github.com/mimi1479) | TBD |
 
 ---
 
